@@ -1,0 +1,9 @@
+group1,group2
+Karanlık Yol,Demir Yumruk
+Demir Yumruk,Karanlık Yol
+Karanlık Yol,Sokak Baronu
+Sokak Baronu,Karanlık Yol
+Demir Yumruk,Gece Ateşi
+Gece Ateşi,Demir Yumruk
+Sokak Baronu,Gece Ateşi
+Gece Ateşi,Sokak Baronu
